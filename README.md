@@ -1,4 +1,4 @@
-# How to download daily data to your personal data from NASA PODAAC
+# How to download daily data to your personal computer from NASA PODAAC
 ## 1)  Register for an account with _Earthdata Login_ here: 
 > https://urs.earthdata.nasa.gov/oauth/authorize?client_id=HrBaq4rVeFgp2aOo6PoUxA&redirect_uri=https%3A%2F%2Farchive.podaac.earthdata.nasa.gov%2Fredirect&response_type=code&state=%2Fs3credentials
 
